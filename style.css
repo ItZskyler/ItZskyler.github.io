@@ -8,9 +8,14 @@ a{
 }
 
 button{
-    color: white;
+    color: black;
+    background-color: white;
 }
 
 footer{
-    color: whitesmoke;
+    color: white;
+}
+
+h2{
+    color: blue;
 }
