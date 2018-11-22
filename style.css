@@ -1,8 +1,3 @@
-*{
-    color: black;
-    background-color: blue;
-}
-
 a{
     color: deeppink;
 }
@@ -13,9 +8,9 @@ button{
 }
 
 footer{
-    color: white;
+    color: black;
 }
 
 h5{
-    color: blue;
+    color: white;
 }
